@@ -2012,7 +2012,7 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 #app-mount .form_f75fb0 {
-  margin-top: 0px !important;     /* Small negative to close gap — adjust -8px / -16px if needed */
+  margin-top: 8px !important;     /* Small negative to close gap — adjust -8px / -16px if needed */
   padding-top: 0 !important;
 }
 
@@ -2042,4 +2042,5 @@ html.platform-osx .scroller-2TZvBN {
   
 
 }
+
 
