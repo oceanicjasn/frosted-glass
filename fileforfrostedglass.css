@@ -2044,10 +2044,61 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 
-#app-mount .wrapper__4106a,
-#app-mount .wrapper__4106a .mention {
-  color: var(--text-normal) !important;   /* white */
+
+
+.wrapper__4106a,
+.wrapper__4106a:hover,
+.wrapper_cb9592 {                          
+  background: rgba(255, 255, 255, 0.12) !important;
+  backdrop-filter: blur(4px);              
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
 }
+
+
+.mentioned__5126c,
+.mentioned__5126c:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+
+.reaction__23977,
+.reaction__23977:hover,
+.reaction__23977.reactionMe__23977 {
+  background: rgba(255, 255, 255, 0.10) !important;
+  border: 1px solid rgba(255, 255, 255, 0.06) !important;
+  border-radius: 12px;                     
+}
+
+
+code.inline,
+.hljs,
+.message__5126c code {
+  background: rgba(255, 255, 255, 0.09) !important;
+}
+
+
+.spoilerContent__299eb:not(.hidden__299eb),
+.spoiler__299eb {
+  background: rgba(255, 255, 255, 0.11) !important;
+}
+
+
+.embedFull__623de,
+.file__0ccae,
+.wrapperAudio_cf09d8,
+.message__5126c .wrapper_f7ecac {         
+  background: rgba(255, 255, 255, 0.07) !important;
+}
+
+
+.wrapper__4106a,
+.reaction__23977 .reactionCount__23977,
+.mentioned__5126c .markup__75297,
+code {
+  color: #ffffff !important;              
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);  
+}
+
 
 
 
