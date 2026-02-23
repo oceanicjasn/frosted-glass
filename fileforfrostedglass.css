@@ -2044,6 +2044,10 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 
+#app-mount .wrapper__4106a,
+#app-mount .wrapper__4106a .mention {
+  color: var(--text-normal) !important;   /* white */
+}
 
 
 
