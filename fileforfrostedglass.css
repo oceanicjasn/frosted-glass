@@ -2086,4 +2086,28 @@ a[href] {
   --gradient-primary: 255, 255, 255;       
 }
 
+.wrapper__4106a[style*="background-color: rgb(88, 101, 242)"],
+.wrapper__4106a[style*="background-color: #5865f2"],
+.wrapper__4106a.roleMention__something,          
+.wrapper__4106a:has(.roleColor-nA7BqX),         
+.wrapper__4106a {                                
+  background: rgba(255, 255, 255, 0.12) !important;
+  backdrop-filter: blur(4px) !important;          
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 12px !important;                 
+}
+
+
+.wrapper__4106a,
+.wrapper__4106a * {
+  color: #ffffff !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6) !important;  
+}
+
+
+div[style*="background: rgba(88, 101, 242"],
+div[style*="background: rgb(88, 101, 242"],
+.mention[style*="background-color"] {
+  background: rgba(255, 255, 255, 0.12) !important;
+}
 
